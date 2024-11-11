@@ -15,50 +15,6 @@ else:
 
 #Esses são os códigos para colocar perto do "If"
 print("soma")
-#Esses são os códigos para colocar perto do "If"
-print("soma")
-def soma(a, b):
-    return a + b
-x = int(input("informe o valor de X:"))
-y = int(input("informe o valor de y:"))
-
-resultado_s = int(soma(x, y))
-print(resultado_s)
-
-#Subtração 
-print("subtração")
-def sub(a, b):
-    return a - b
-x = int(input("informe o valor de x:"))
-y = int(input("informe o valor de x:"))
-
-resultado_sub = int(sub(x, y))
-print(resultado_sub)
-
-#Multiplicação
-print("Multiplicação")
-def sub(a, b):
-    return a * b
-
-x = int(input("informe o valor de x:"))
-y = int(input("informe o valor de x:"))
-
-resultado_m = int(sub(x, y))
-print(resultado_m)
-
-#Divisão
-print("Divisão")
-def sub(a, b):
-    return a / b 
-
-x = int(input("informe o valor de x:"))
-y = int(input("informe o valor de x:"))
-
-resultado_d = int(sub(x, y))
-print(resultado_d)
-
-
-
 def soma(a, b):
     return a + b
 x = int(input("informe o valor de X:"))
