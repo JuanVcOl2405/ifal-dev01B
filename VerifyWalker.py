@@ -1,6 +1,6 @@
 print("olá ser humaninho!")
-x = int(input("Min querer saber esse valor (x):"))
-y = int(input("Min querer saber o valor desse também (y):"))
+x = float(input("Min querer saber esse valor (x):"))
+y = float(input("Min querer saber o valor desse também (y):"))
 
 if x > y:
     print("X é maior do que Y")
